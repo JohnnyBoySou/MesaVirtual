@@ -12,4 +12,4 @@ As principais tecnologias usadas foram:
 - Adobe XD 
 - JavaScript
 
-![Screenshot](screenshot.png)
+![Screenshot](Mesa Virtual.png)
