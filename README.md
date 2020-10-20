@@ -13,3 +13,5 @@ As principais tecnologias usadas foram:
 - JavaScript
 
 ![Screenshot](Mesa Virtual.png)
+
+<img src="Mesa Virtual.png"/>
