@@ -11,3 +11,5 @@ As principais tecnologias usadas foram:
 - Wordpress
 - Adobe XD 
 - JavaScript
+
+![Screenshot](screenshot.png)
