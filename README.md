@@ -14,7 +14,5 @@ As principais tecnologias usadas foram:
 - Adobe XD 
 - JavaScript
 
-Acesse o Projeto através do Expo.io
+Acesse o Projeto através do <a href="https://snack.expo.io/@joaosousa/mesa-virtual">Expo.io</a>
 
-<div data-snack-id="@joaosousa/mesa-virtual" data-snack-platform="web" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212733;border:1px solid rgba(0,0,0,.08);border-radius:4px;height:505px;width:100%"></div>
-<script async src="https://snack.expo.io/embed.js"></script>
